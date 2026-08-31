@@ -1,11 +1,26 @@
 # DRAFT: A Dataset for Recruitment Assessment and Fairness Tracking
 
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-31312/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/previous-versions/)
+## Authors
 
+Tristan Cladière<sup>1</sup>, Antoine Gourru<sup>1</sup>, Bissan Audeh<sup>2</sup>, Christine Largeron<sup>1</sup>
+
+- <sup>1</sup> Laboratoire Hubert Curien, UMR CNRS 5516, 42000 Saint-Etienne, France
+
+- <sup>2</sup> Konduco, 69140 Rillieux-la-Pape, France
+
+## Acknowledgments
+This work was partially supported by the **French Direction de l'Animation de la Recherche, des Études et des Statistiques** (DARES) 
+through the IA et recrutement project, by the **EABCD Ambition internationale project** (Région Auvergne-Rhône-Alpes), 
+and by the **French ANR project FAMOUS** (ANR-23-CE23-0019).
+
+## Citation
+T. Cladière, A. Gourru, B. Audeh, C. Largeron. DRAFT: A Dataset for Recruitment Assessment and Fairness Tracking. AI4HR&PES @ ECML-PKDD (2026).
 
 
 ## Installation
+[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-31312/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/previous-versions/)
+
 (Tested on Windows 10/11)
 ### Requirements
 - Python 3.13
